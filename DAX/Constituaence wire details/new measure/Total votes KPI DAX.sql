@@ -1,0 +1,1 @@
+Total votes KPI = "Total Votes: " & MAX(constituencywise_details[Total Votes])

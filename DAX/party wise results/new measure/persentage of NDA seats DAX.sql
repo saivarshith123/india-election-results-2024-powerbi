@@ -1,0 +1,1 @@
+% of NDA seats = DIVIDE([NDA seats], [Total Seats], 0)

@@ -1,0 +1,1 @@
+Total share KPI = "Total Votes: " & MAX(constituencywise_details[% of Votes]) & "%"

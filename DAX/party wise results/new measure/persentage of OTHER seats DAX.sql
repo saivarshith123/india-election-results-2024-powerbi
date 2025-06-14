@@ -1,0 +1,1 @@
+% of OTHER seats = DIVIDE([OTHER seats], [Total Seats], 0)

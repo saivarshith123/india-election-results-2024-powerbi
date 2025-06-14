@@ -1,0 +1,1 @@
+% of INDIA seats = DIVIDE([INDIA seats], [Total Seats], 0)

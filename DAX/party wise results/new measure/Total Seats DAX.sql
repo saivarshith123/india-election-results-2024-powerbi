@@ -1,0 +1,1 @@
+Total Seats = SUM(partywise_results[Won])

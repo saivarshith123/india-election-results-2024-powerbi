@@ -1,0 +1,1 @@
+INDIA seats = CALCULATE([Total Seats], partywise_results[Party Alliance] = "I.N.D.I.A.")

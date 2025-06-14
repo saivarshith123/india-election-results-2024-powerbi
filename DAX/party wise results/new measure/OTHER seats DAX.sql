@@ -1,0 +1,1 @@
+OTHER seats = CALCULATE([Total Seats], partywise_results[Party Alliance] = "OTHER")
